@@ -49,7 +49,8 @@ hello ajit
 **Output:**
 ```
 Encrypted text:
-Hjl;':"h\|E7!+p9=qWw)zx=vbn=,./7zx=vbn=,./7xzcv#,._/+n*@/#|^v@,:d~!@1$*2&*()J1!q2#3e4r5Iza_+@}}[]i&*()_+|i\=6
+
+Hjl;'658v3|E7!+p9=qWw)zx=vbn=,./7zx=vbn=,./7xzcv#,._/+n*@/#|^v@,:d~!@1$*2&*()J1!q2#3e4r5Iza_+@}}[]i&*()_+|i|=6
 ```
 
 ### 2. Decrypt Text
@@ -58,7 +59,8 @@ python decrypt.py
 ```
 **Input:**
 ```
-Hjl;':"h\|E7!+p9=qWw)zx=vbn=,./7zx=vbn=,./7xzcv#,._/+n*@/#|^v@,:d~!@1$*2&*()J1!q2#3e4r5Iza_+@}}[]i&*()_+|i\=6
+
+Hjl;'658v3|E7!+p9=qWw)zx=vbn=,./7zx=vbn=,./7xzcv#,._/+n*@/#|^v@,:d~!@1$*2&*()J1!q2#3e4r5Iza_+@}}[]i&*()_+|i|=6
 ```
 **Output:**
 ```
